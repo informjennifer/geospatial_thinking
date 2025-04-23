@@ -18,8 +18,11 @@ In each module, you will need to go find the datasets needed to do the work.
 -	Contour lines (source: MSDIS)
 
 #### Getting Census Data
-- Census.gov provides the Decinial Census (10yr) as well as the American Community Survey (estimates between the decinial census)
-- The exercises in this book will use Census Tract Level Data for St. Louis City and St. Louis County
+We will start with Census.gov to get the data we need. Census.gov provides the Decinial Census (10yr) as well as the American Community Survey (estimates between the decinial census)
+If you are unable to get historical data from Census.gov, another useful tool is IPUMS NHGIS https://www.nhgis.org/ 
+
+
+- The exercises in this book will use Census Tract Level Data for St. Louis City and St. Louis County. Using the *advanced search* in Census.gove, filter for the following.
   - Geographies: 
     - Census Tracts
       - Missouri
