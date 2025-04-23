@@ -33,6 +33,9 @@ If you are unable to get historical data from Census.gov, another useful tool is
        - Financial Characteristics
         - DP04: Selected Housing Characteristics
         -  Download table DP04 for years 2010 and 2020
+        -  Data:[Uploading ACSDP5Y2020DP04_Data.csv…]
+        -  Metadata:[Uploading ACSDP5Y2020DP04_Column-Metadata.csv…]
+
   - Remove topic filters (I recommend to gather these topic tables separately)
   - Topics:
     - Income and Povety
