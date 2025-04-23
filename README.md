@@ -1,4 +1,4 @@
-[ACSDP5Y2020DP04_Data.csv](https://github.com/user-attachments/files/19859316/ACSDP5Y2020DP04_Data.csv)# Geospatial Thinking
+# Geospatial Thinking
 This repository supplements the hands-on section of the OER, Geospatial Thinking and Open Source GIS
 
 The gitbook will be broken into modules which increase in complexity.
@@ -33,6 +33,7 @@ If you are unable to get historical data from Census.gov, another useful tool is
        - Financial Characteristics
         - DP04: Selected Housing Characteristics
         -  Download table DP04 for years 2010 and 2020
+        -  Data: [ACSDP5Y2020DP04_Data.csv](https://github.com/user-attachments/files/19859316/ACSDP5Y2020DP04_Data.csv)
         -  Metadata:
 
   - Remove topic filters (I recommend to gather these topic tables separately)
