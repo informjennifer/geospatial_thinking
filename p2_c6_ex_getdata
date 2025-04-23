@@ -1,4 +1,4 @@
-## Data that we will collect include:
+# Data that we will collect include:
 -	Income (source: US Census/IPUMS)
 - Housing characteristics (source: US Census/IPUMS)
 - Race (source: US Census/IPUMS)
@@ -9,7 +9,7 @@
 -	School ratings (source: NESI)
 -	Contour lines (source: MSDIS)
 
-##Getting Census Data
+## Getting Census Data
 - Census.gov provides the Decinial Census (10yr) as well as the American Community Survey (estimates between the decinial census)
 - The exercises in this book will use Census Tract Level Data for St. Louis City and St. Louis County
 - - Geographies: 
