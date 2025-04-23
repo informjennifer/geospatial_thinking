@@ -4,3 +4,39 @@ This repository supplements the hands-on section of the OER, Geospatial Thinking
 The gitbook will be broken into modules which increase in complexity.
 The software needed to do the exercises is QGIS: https://qgis.org/; I'm using version 3.42.2, but I recommend you download the most recent stable version.
 In each module, you will need to go find the datasets needed to do the work.
+
+# Data that we will collect include:
+-	Income (source: US Census/IPUMS)
+- Housing characteristics (source: US Census/IPUMS)
+- Race (source: US Census/IPUMS)
+-	Housing assessments (source: St. Louis County Planning)
+-	Zoning information (source: St. Louis County Planning)
+-	Business Locations (source: Data Axle)
+-	Schools and Libraries (source: MSDIS)
+-	School ratings (source: NESI)
+-	Contour lines (source: MSDIS)
+
+## Getting Census Data
+- Census.gov provides the Decinial Census (10yr) as well as the American Community Survey (estimates between the decinial census)
+- The exercises in this book will use Census Tract Level Data for St. Louis City and St. Louis County
+- - Geographies: 
+- - - Census Tracts
+- - - - Missouri
+- - - - - St. Louis City, All Tracts in St. Louis City
+- - - - - St. Louis County, All Tracts in St. Louis County
+- - Topics:
+- - - Housing
+- - - - Financial Characteristics
+- - - - - DP04: Selected Housing Characteristics
+- - - - - Download table DP04 for years 2010 and 2020
+- - Remove topic filters (I recommend to gather these topic tables separately)
+- - Topics:
+- - - Income and Povety
+- - - - S1902: Mean Income and Poverty in the Past 12 months
+- - - - Download table S1902 for years 2010 and 2020
+- - Remove topic filters (I recommend to gather these topic tables separately)
+- - Topics:
+- - - Race
+- - - - All Available Races
+- - - - - B01003: Total Population
+- - - - - Download table B01003: for years 2010 and 2021
